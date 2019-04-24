@@ -9,7 +9,8 @@ Welcome to auto_healing_vitrage_mistral's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   includeme
 
 
 Indices and tables
